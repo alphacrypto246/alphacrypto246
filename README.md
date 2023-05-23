@@ -15,8 +15,6 @@ HTML, CSS, Java, Python
 
 🧠 I'm currently learning Java, Javascript
 
-👯‍♀️ I'm looking to collaborate on...
-
 🤔 I'm looking for help with Javascript, Java, Python
 
 💬 Ask me about Java
