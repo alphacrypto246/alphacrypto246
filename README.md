@@ -1,6 +1,6 @@
 # Hi, I'm Arya Deep Chowdhury 👋
 
-### BCA Data Science Student | Aspiring ML/AI Engineer
+### Data Science Student | Aspiring ML/AI Engineer
 
 I'm a Data Science student at **SRM Institute of Science and Technology** with a strong interest in **Machine Learning, Deep Learning, and Artificial Intelligence**.
 
