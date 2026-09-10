@@ -15,8 +15,6 @@ I enjoy building practical applications with data and exploring the complete jou
 - 🐍 Working primarily with **Python** for Data Science and ML
 - 🧠 Exploring **ML Engineering, deployment, and AI**
 - 💻 Interested in building practical and end-to-end ML applications
-- 🏆 1st Place — Treasure Hunt ’2024 Codeathon, ACM SIGKDD, SRMIST
-- 🥇 Gold Medal — Department of Mathematics & Statistics, SRMIST
 
 ---
 
@@ -61,14 +59,6 @@ I enjoy building practical applications with data and exploring the complete jou
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Place** — Treasure Hunt ’2024 Codeathon, ACM SIGKDD, SRMIST-KTR
-- 🏅 **Gold Medal** — Department of Mathematics & Statistics, SRMIST-KTR
-- 🎓 **BCA Data Science** — SRM Institute of Science and Technology
 
 ---
 
